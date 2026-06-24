@@ -23,16 +23,9 @@
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea" />
 </p>
 
----
 
 <p align="center">
-  <i>Developing OGFN Launchers</i>
-</p>
-
----
-
-<p align="center">
-  <b>Discord Status</b>
+  <b>My Discord</b>
 </p>
 
 <p align="center">
